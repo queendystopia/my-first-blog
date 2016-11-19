@@ -25,7 +25,7 @@ SECRET_KEY = 'db14*qs^ws^5i3gyy!^qd&ypb*!!8*zdx9gb(=8e$7&b=s-f4='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [queendystopia.pythonanywhere.com]
 
 
 # Application definition
